@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: UTS_sf
+    database: timekeeping_db
+    schema: raw_data
+    tables:
+      - name: hrly_emp_2025
+      - name: sup_emp_2025
+      - name: current_employees
+      - name: tcodes
+      - name: divisions
+      - name: uotcodes

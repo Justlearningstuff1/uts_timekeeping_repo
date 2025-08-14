@@ -1,0 +1,1 @@
+select * from {{ source("UTS_sf",'current_employees')}}
