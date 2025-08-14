@@ -1,0 +1,61 @@
+tcode,Description,Category
+T0033,UNPAID LUNCH UNSCH OVT                            ,UBOT
+T0035,UNPAID LUNCH UNSCH BON                            ,UBOT
+T0065,EXTRA PLATFORM ASN OVT                            ,UBOT
+T0067,EXTRA DRILL OR SWITCH OVT                         ,UBOT
+T0069,RE-INSTRUCTION OVT                                ,UBOT
+T0072,UNSCHEDULED OVERTIME - BONUS                      ,UBOT
+T0073,UNSCHEDULED OVERTIME - OVT                        ,UBOT
+T0075,STORM - EMERGENCY WORK BON                        ,UBOT
+T0079,SUPPLEMENTAL SCHEDULED OT                         ,UBOT
+T0080,POINT FLAGGER PAID BON                            ,UBOT
+T0083,EXTRA WORK TRAIN OVT                              ,UBOT
+T0085,EXTRA BOARD REPORT BON                            ,UBOT
+T0086,EXTRA BOARD REPORT OVT                            ,UBOT
+T0087,WORKED SECOND TOUR BONUS                          ,UBOT
+T0088,WORKING RDO BONUS                                 ,UBOT
+T0089,TRAVEL TIME - DEADHEAD BON                        ,UBOT
+T0090,TRAVEL TIME - DEADHEAD OVT                        ,UBOT
+T0092,EXTRA TRIP OVT                                    ,UBOT
+T0093,EXTRA TRIP BON                                    ,UBOT
+T0094,EXTRA FLAGGING BON                                ,UBOT
+T0095,EXTRA FLAGGING OVT                                ,UBOT
+T0103,CONT OR WAIT BON (NON WRK)                        ,UBOT
+T0104,CONT OR WAIT OVT (NON WRK)                        ,UBOT
+T0105,EARLY REPORT BONUS                                ,UBOT
+T0106,EARLY REPORT O/T                                  ,UBOT
+T0112,Mandated Training Overtime                        ,UBOT
+T0113,Mandated Training Overtime - Bonus                ,UBOT
+T0137,COLD WEATHER EARLY REPORT BON                     ,UBOT
+T0138,COLD WEATHER EARLY REPORT OVT                     ,UBOT
+T0139,COLD WEATHER LATE CLEAR BON                       ,UBOT
+T0140,COLD WEATHER LATE CLEAR OVT                       ,UBOT
+T0144,COLD WEATHER SPECIAL BON                          ,UBOT
+T0145,COLD WEATHER SPECIAL OVT                          ,UBOT
+T0150,Tower Reporting Allowance Overtime                ,UBOT
+T0153,Unscheduled Overtime (WORKING RDO/DBL)            ,UBOT
+T0156,SCHEDULED OVERTIME - 47-48 RTO                    ,UBOT
+T0179,UNION BUSINESS UNSCHD USCOT                       ,UBOT
+T0214,CONT OR WAIT BON (WRK)                            ,UBOT
+T0215,CONT OR WAIT OVT (WRK)                            ,UBOT
+T0275,OVERTIME OFFSET NOP (ACCRUED)                     ,UBOT
+T0311,EXTRA TRIP PREMIUM IN TOUR BONUS                  ,UBOT
+T0317,UNSCHEDULED SPECIAL OVERTIME - OVT                ,UBOT
+T0318,UNSCHEDULED SPECIAL OT - BONUS                    ,UBOT
+T0348, SUPP DELAY-LATE CLEAR BONUS                      ,UBOT
+T0349,SUPP DELAY-LATE CLEAR OVT                         ,UBOT
+T0351,Early Supp Schedule (OVT)                         ,UBOT
+T0360,OPTO UNSCH BONUS                                  ,UBOT
+T0361,OPTO UNSCHEDULED OT                               ,UBOT
+T0401,SPLIT TOUR BONUS                                  ,UBOT
+T0403,RANDOM DRUG SCRNG MED BON                         ,UBOT
+T0404,RANDOM SDRUG SCREENIGN MEDICAL OVERTIME           ,UBOT
+T0411,DAYLIGHT SAVINGS  OVERTIME                        ,UBOT
+T0502,Trainers DIFF UNSCH OVT                           ,UBOT
+T0503,Trainers DIFF UNSCH BONUS                         ,UBOT
+T0596,TOUR ALLOWANCE (USCOT)                            ,UBOT
+T0916,TASK UNSCHEDULED OT                               ,UBOT
+T1003,SNOW WORK OVT                                     ,UBOT
+T1004,SNOW WORK BON                                     ,UBOT
+T1005,SNOW WORK TRAVEL OVT                              ,UBOT
+T1006,SNOW WORK TRAVEL BON                              ,UBOT
