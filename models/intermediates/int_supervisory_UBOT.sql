@@ -1,12 +1,13 @@
 with supervisory as (
-    select * from {{ref("stg_UTS__supervisory")}}
+    select s.*, u.description from {{ref("stg_UTS__supervisory")}} s 
+    join {{ref("uotcodes")}} u on u.tcode = s.tcode
 )
 
 select
     s.pass,
     s.date,
     s.tcode,
-    u.description as tcode_desc,
+    s.description as tcode_desc,
     s.total_hours,
     s.worktype,
     case
@@ -20,5 +21,4 @@ select
     s.func,
     s.run
 from supervisory s
-join {{ref("uotcodes")}} u on u.tcode = s.tcode
 join {{ref("Divisions_list")}} d on d.rcode = s.rc
